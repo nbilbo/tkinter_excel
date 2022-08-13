@@ -26,6 +26,5 @@
 - Currently only are possible to save in .xlsx format.
 
 ## TODO
-- [] Show all sheets, current only load the first.
-
-- [] new and edit values must be converted to original column type.
+- [ ] Show all sheets, current only load the first.
+- [ ] new and edit values must be converted to original column type.
